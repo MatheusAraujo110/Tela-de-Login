@@ -12,4 +12,4 @@ Apresento a vocês mais um projeto realizado: Tela de Login.</p>
 <p>Gostei muito do resultado e espero que vocês também gostem! </p>
 <br>
 <p>Deploy: http://127.0.0.1:5500/index.html</p>
-<p>GitHub: https://lnkd.in/eDMf9QVY</p>
+<p>GitHub: https://github.com/MatheusAraujo110/Tela-de-Login/tree/master</p>
